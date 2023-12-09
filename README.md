@@ -10,4 +10,4 @@
 
 # it was written in 2017/2018 and used a now-deprecated way to use gmail to send emails out. 
 
-#as a bit of a laugh, we also tied it into twitter and made the dogs an account. Every time they barked at home they also sent out a tweet saying "bark" or "barkbark" or some such variation. The plan was originally a deadban "bark" everytime, but at the time twitter didn't allow two of the exact same tweets to be sent out, so I had it draw from a random set each time.  
+#as a bit of a laugh, we also tied it into twitter and made the dogs an account. Every time they barked at home they also sent out a tweet saying "bark" or "barkbark" or some such variation. The plan was originally a deadban "bark" every time, but at the time twitter didn't allow two of the exact same tweets to be sent out in a row, so I had to draw the text from a random set each time. I can't seem to find the actual script that did the tweets - seems lost to time. But the twitter account still exsits and is @dale_n_dachs.
