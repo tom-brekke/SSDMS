@@ -11,3 +11,6 @@
 #it was written in 2017/2018 and used a now-deprecated method to send emails out from a gmail account.  
 
 #as a bit of a laugh, we also tied it into twitter and made the dogs an account. Every time they barked at home they also sent out a tweet saying "bark" or "barkbark" or some such variation. The plan was originally a deadban "bark" every time, but at the time twitter didn't allow two of the exact same tweets to be sent out in a row, so I had to draw the text from a random set each time. The twitter account still exsits and is @dale_n_dachs, though the last tweet was ages ago.
+
+#There's a couple things broken with this these days - it needs an updated api to send out emails from gmail - that was deprecated ages ago
+#it need to be migrated over to twitter api v2
